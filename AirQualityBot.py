@@ -1,7 +1,3 @@
-#MUST RUN THIS COMMAND BEFORE IT WILL WORK!!!!!
-#pip install requests bs4 pyperclip
-#Now you must create a file called Discord.txt in the same directory as this file
-
 import requests
 from bs4 import BeautifulSoup
 import pyperclip
